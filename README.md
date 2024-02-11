@@ -5,11 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaythakur1818&label=Profile%20views&color=0e75b6&style=flat" alt="abhaythakur1818" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaythakur1818" alt="abhaythakur1818" /></a> </p>
-
 - 🔭 I’m currently working on **Diabetic Retinopathy**
 
 - 👯 I’m looking to collaborate on **MERN stack**
@@ -17,6 +12,11 @@
 - 💬 Ask me about **React , MySQL , Node JS , Mongo DB , Express JS**
 
 - 📫 How to reach me **abhi3333rt@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaythakur1818&label=Profile%20views&color=0e75b6&style=flat" alt="abhaythakur1818" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaythakur1818" alt="abhaythakur1818" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
