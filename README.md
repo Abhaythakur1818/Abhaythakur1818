@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image (1).png)
 
 <h1 align="center">Hi 👋, I'm Abhayy</h1>
 <h3 align="center">Passion is energy. Feel the power that comes from focusing on what excites you</h3>
